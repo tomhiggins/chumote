@@ -1,0 +1,10 @@
+Control much of the functionality of a Chumby device via any web browser.
+
+Utilizes the built in web server, perl, bash and various code that comes stock with the Chumby.
+
+1)Place all files in /psp/cgi-bin/
+
+2) Once installed you can start your journey of control by pointing a web browser at 
+http://ip-of-the-chumby/cgi-bin/custom/index.cgi
+
+Currently tested and confirmed to work on a Chumby Insignia 3.5
