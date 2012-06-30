@@ -1,6 +1,7 @@
 Control much of the functionality of a Chumby device via any web browser.
 
 Utilizes the built in web server, perl, bash and various code that comes stock with the Chumby.
+Update 6/29/12 A new version will work with Zurk's setup soon.
 
 1) Using ssh or scp place all files in /psp/cgi-bin/
 
